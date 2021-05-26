@@ -3835,7 +3835,7 @@ const biographicalDetails = {
   email: "stevedorries@gmail.com",
   phone: "(386) 503-5090",
   url: new URL("https://stevedorries.github.io"),
-  summary: "TODO: fill this out",
+  summary: "",
   location: {
     region: "FL",
     countryCode: "US"
@@ -3847,6 +3847,16 @@ const biographicalDetails = {
   }]
 };
 let workHistory = [{
+  name: "Zimit",
+  location: "Remote",
+  position: "Senior Software Developer"
+}, {
+  name: "Cloudscale Corp",
+  location: "Remote",
+  position: "Senior Software Developer",
+
+},
+  {
   name: "Digital Risk",
   location: "Maitland, FL",
   position: "Senior Software Developer",
